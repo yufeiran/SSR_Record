@@ -1,2 +1,2 @@
 # SSR_Record
-用于存储ssr使用记录
+鐢ㄤ簬璁板綍SSR浣跨敤璁板綍
